@@ -3,7 +3,6 @@ public:
     int totalFruit(vector<int>& fruits) {
         map<int,int> mp;
         int i=0,j=0,ans=0,n=fruits.size();
-        if(n==1)return 1;
         while(j<n){
             mp[fruits[j]]++;
             if(mp.size()==2){
@@ -16,12 +15,16 @@ public:
                     }
                     i++;
                 }
+                if(mp.size()==2){
+                    ans = max(ans, j-i+1);
+                }
             }
             j++;
         }
-        if(ans==0 && n>0){
-            return n;
-        }
+       if(mp.size()==1){
+           auto it = mp.begin();
+           return it->second;
+       }
         return ans;
     }
 };
