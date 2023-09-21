@@ -1,18 +1,29 @@
 class Solution {
 public:
-    static bool compareVectors(const vector<int>& a,const vector<int>& b){
-        return a[1]<b[1];
-    }
+
     int findMinArrowShots(vector<vector<int>>& points) {
-        sort(points.begin(),points.end(),compareVectors);
-        long end=points[0][1];
-        long ans=1;
-        for(int i=1;i<points.size();i++){
-            if(points[i][0]>end){
-                ans++;
-                end=points[i][1];
+int n = points.size();
+        sort(begin(points), end(points));
+        
+        vector<int> prev = points[0];
+        int count = 1;
+        for(int i = 1; i<n; i++) {
+            int currStartPoint = points[i][0];
+            int currEndPoint   = points[i][1];
+            
+            int prevStartPoint = prev[0];
+            int prevEndPoint   = prev[1];
+            
+            if(currStartPoint > prevEndPoint) { //no overlap
+                count++;
+                prev = points[i];
+            } else {
+                //overlap
+                prev[0] = max(prevStartPoint, currStartPoint);
+                prev[1] = min(prevEndPoint, currEndPoint);
             }
         }
-        return ans;
+        
+        return count;
     }
 };
