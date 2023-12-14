@@ -9,6 +9,6 @@ public:
             if(top1==top2)continue;
             else pq.push(top1-top2);
         }
-        return pq.size()==1?pq.top():0;
+        return pq.size()?pq.top():0;
     }
 };
