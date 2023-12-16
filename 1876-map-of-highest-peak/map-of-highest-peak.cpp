@@ -1,14 +1,13 @@
 class Solution {
 public:
-   
+    int delX[4]={0,1,0,-1};
+    int delY[4]={1,0,-1,0};
     bool safe(int i,int j,int n,int m){
         return i>=0 && i<n && j>=0 && j<m;
     }
     vector<vector<int>> highestPeak(vector<vector<int>>& isWater) {
         int n = isWater.size();
         int m = isWater[0].size();
-        int delX[]={0,1,0,-1};
-        int delY[]={1,0,-1,0};
         queue<pair<pair<int,int>,int>> q;
         vector<vector<int>> vis(n,vector<int>(m,-1));
         vector<vector<int>> ans(n,vector<int>(m,-1));
