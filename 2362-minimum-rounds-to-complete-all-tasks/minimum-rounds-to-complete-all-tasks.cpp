@@ -1,11 +1,15 @@
 class Solution {
 public:
     int minimumRounds(vector<int>& tasks) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+        int n = tasks.size();
         unordered_map<int,int> mp;
-        int ans=0;
-        for(auto it:tasks){
-            mp[it]++;
+        for(int i = 0; i < n;i++){
+            mp[tasks[i]]++;
         }
+        int ans=0;
         for(auto it:mp){
             int x = it.second;
             if(x == 1){
