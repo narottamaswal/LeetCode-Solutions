@@ -2,26 +2,23 @@ class Solution {
 public:
     int minimumRounds(vector<int>& tasks) {
         unordered_map<int,int> mp;
-        int ans=0,rem=0;
+        int ans=0;
         for(auto it:tasks){
             mp[it]++;
         }
-        for(auto element:mp){
-            int task_count =element.second;
-            if(task_count==1) return -1;
-            while(task_count>0){
-                if(task_count<3){
-                     rem = task_count-2;
-                }else{
-                    if(task_count-2==2 && task_count-3==1){
-                        rem=2;
-                    }else{
-                        rem = min(task_count-2,task_count-3);
-                    }
-                }
-                if(rem==1)return -1;
-                ans++;
-                task_count=rem;
+        for(auto it:mp){
+            int x = it.second;
+            if(x == 1){
+                return -1;
+            }
+            // if x is a multiple of 3 then x/3 will define how many times we need to do that task
+            if(x%3 == 0){
+                ans += x/3;
+            }// if not a multiple of 3 eg. 7 then it can be proved that a non multiple of 3 can be done with 
+            // a combination of 2 and 3 like eg. 7 can be done in 3+2+2 i.e 3 ways
+            // to get 3 we can divide x/3+1 formula is used
+            else{
+                ans += x/3+1;
             }
         }
         return ans;
