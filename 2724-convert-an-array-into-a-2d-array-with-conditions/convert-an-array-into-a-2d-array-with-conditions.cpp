@@ -2,19 +2,18 @@ class Solution {
 public:
     vector<vector<int>> findMatrix(vector<int>& nums) {
         unordered_map<int,int> mp;
-        vector<vector<int>> ans(nums.size());
+        vector<vector<int>> ans;
+        int size=INT_MIN;
         for(int num:nums){
             mp[num]++;
             int freq=mp[num];
+            if(freq>size){
+                size=freq;
+                ans.resize(freq);
+            }
             ans[freq-1].push_back(num);
         }
-        for (int i = 0; i < ans.size(); ) {
-            if (ans[i].size() == 0) {
-                ans.erase(ans.begin() + i);
-            } else {
-                ++i;
-            }
-        }
+        
         return ans;
     }
 };
