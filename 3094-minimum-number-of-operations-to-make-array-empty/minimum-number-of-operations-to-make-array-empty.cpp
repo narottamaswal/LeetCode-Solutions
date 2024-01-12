@@ -10,10 +10,9 @@ public:
             if(it.second==1){
                 return -1;
             }
-            if(it.second%3==0){
-                ans=ans+(it.second/3);
-            }else{
-                ans=ans+(it.second/3)+1;
+            ans=ans+(it.second/3);
+            if(it.second%3!=0){
+                ans++;
             }
         }
         return ans;
