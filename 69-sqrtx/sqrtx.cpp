@@ -1,7 +1,7 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        if(x==1)return 1;
+        if(x<=1)return x;
         auto condition=[&](long long int a,long long int x1){
             if(a*a==x1){
                 return 1;
