@@ -8,7 +8,8 @@ public:
         iota(columns.begin(),columns.end(),0);
         for(int row=rows-1;row>=0;row--){
             for(auto col:columns){
-                cells[count++]={row,col};
+                cells[count]={row,col};
+                count++;
             }
             reverse(columns.begin(),columns.end());
         }
