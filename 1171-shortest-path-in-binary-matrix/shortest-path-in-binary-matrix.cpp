@@ -14,14 +14,12 @@ public:
         int coordY[]={1,-1,0,0,-1,1,-1,1};
         vis[0][0]=true;
         bool flag=false;
-        int ans=INT_MAX;
         while(!q.empty()){
             int x = q.front().first.first;
             int y = q.front().first.second;
             int dis = q.front().second;
             if(x==n-1 && y==m-1){
-                flag=true;
-                ans=min(ans,dis);
+                return dis;
             }
             q.pop();
             for(int i=0;i<8;i++){
@@ -33,6 +31,6 @@ public:
                 }
             }
         }
-        return flag?ans:-1;
+        return -1;
     }
 };
