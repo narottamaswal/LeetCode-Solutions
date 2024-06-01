@@ -1,30 +1,22 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        map<int,int> mp;
-        int i=0,j=0,ans=0,n=fruits.size();
-        while(j<n){
-            mp[fruits[j]]++;
-            if(mp.size()==2){
-                ans=max(ans,j-i+1);
-            }else if(mp.size()>2){
+        int n = fruits.size(), ans = 0, start = 0 ,end =0;
+        unordered_map<int,int> mp;
+        while(end<n){
+            mp[fruits[end]]++;
+            if(mp.size()>2){
                 while(mp.size()>2){
-                    mp[fruits[i]]--;
-                    if(mp[fruits[i]]==0){
-                        mp.erase(fruits[i]);
+                    mp[fruits[start]]--;
+                    if(mp[fruits[start]]==0){
+                        mp.erase(fruits[start]);
                     }
-                    i++;
-                }
-                if(mp.size()==2){
-                    ans = max(ans, j-i+1);
+                    start++;
                 }
             }
-            j++;
+            end++;
+            ans = max(ans,end-start);
         }
-       if(mp.size()==1){
-           auto it = mp.begin();
-           return it->second;
-       }
         return ans;
     }
 };
