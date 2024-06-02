@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0682-baseball-game](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Stack
@@ -46,8 +47,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 # Graph
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+# Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
