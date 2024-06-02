@@ -35,3 +35,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+# Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+# Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+# Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+# Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
