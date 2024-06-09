@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-n-th-value-after-k-seconds">3422. Find the N-th Value After K Seconds</a></h2><h3>Medium</h3><hr><p>You are given two integers <code>n</code> and <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-n-th-value-after-k-seconds">Find the N-th Value After K Seconds</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two integers <code>n</code> and <code>k</code>.</p>
 
 <p>Initially, you start with an array <code>a</code> of <code>n</code> integers where <code>a[i] = 1</code> for all <code>0 &lt;= i &lt;= n - 1</code>. After each second, you simultaneously update each element to be the sum of all its preceding elements plus the element itself. For example, after one second, <code>a[0]</code> remains the same, <code>a[1]</code> becomes <code>a[0] + a[1]</code>, <code>a[2]</code> becomes <code>a[0] + a[1] + a[2]</code>, and so on.</p>
 
