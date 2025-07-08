@@ -63,8 +63,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
