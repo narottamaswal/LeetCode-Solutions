@@ -1,20 +1,11 @@
 class Solution {
 public:
-    bool help(int n){
-        if(n==1){
-            return true;
-        }
-        return n%3==0 && help(n/3);
-    }
     bool isPowerOfThree(int n) {
         if(n==1){
             return true;
-        }else if(n<=0 || n<3){
+        }else if(n<=0){
             return false;
         }
-        return help(n);
+        return n%3==0 && isPowerOfThree(n/3);
     }
 };
-// 3 6 8 9 63 21
-// 3 * 3 * 3
-// 27
