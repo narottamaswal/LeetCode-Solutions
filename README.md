@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0046-permutations) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0326-power-of-three) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
