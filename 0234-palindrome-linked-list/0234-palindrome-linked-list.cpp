@@ -11,29 +11,27 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
- ListNode *cur = head;
- ListNode *prev = NULL;
+        ListNode* cur = head;
+        ListNode* prev = NULL;
 
-    while(cur!=NULL )
-    {
-        ListNode *p = new ListNode(cur->val);
-        cur = cur->next;
-        p->next = prev;
-        prev = p;
-    }
+        while (cur != NULL) {
+            ListNode* p = new ListNode(cur->val);
+            cur = cur->next;
+            p->next = prev;
+            prev = p;
+        }
 
-    return prev;
+        return prev;
     }
     bool isPalindrome(ListNode* head) {
-        ListNode *reverse = reverseList(head);
+        ListNode* reverse = reverseList(head);
 
-        while(head && reverse){
-            if(reverse->val != head->val) return false;
+        while (head && reverse) {
+            if (reverse->val != head->val)
+                return false;
             head = head->next;
             reverse = reverse->next;
-
         }
-        if(!head && reverse || head && !reverse)return false; 
         return true;
     }
 };
