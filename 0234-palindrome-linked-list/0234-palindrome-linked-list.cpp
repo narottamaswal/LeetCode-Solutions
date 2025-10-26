@@ -10,17 +10,30 @@
  */
 class Solution {
 public:
+    ListNode* reverseList(ListNode* head) {
+ ListNode *cur = head;
+ ListNode *prev = NULL;
+
+    while(cur!=NULL )
+    {
+        ListNode *p = new ListNode(cur->val);
+        cur = cur->next;
+        p->next = prev;
+        prev = p;
+    }
+
+    return prev;
+    }
     bool isPalindrome(ListNode* head) {
-        string d;
-        while (head != NULL) {
-            d += head->val;
+        ListNode *reverse = reverseList(head);
+
+        while(head && reverse){
+            if(reverse->val != head->val) return false;
             head = head->next;
+            reverse = reverse->next;
+
         }
-        for(int i=0;i<d.length()/2;i++){
-            if(d[i]!=d[d.length()-i-1]){
-                return false;
-            }
-        }
+        if(!head && reverse || head && !reverse)return false; 
         return true;
     }
 };
