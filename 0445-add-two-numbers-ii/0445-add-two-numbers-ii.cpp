@@ -41,7 +41,6 @@ public:
                 carry=sum/10;
             }
             s3.push(g);
-            cout<<g<<endl;
             g=0;
         }
         if(carry>0){
