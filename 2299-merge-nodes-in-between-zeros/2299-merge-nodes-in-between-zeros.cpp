@@ -11,17 +11,13 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        ListNode* temp = head;
+        ListNode* temp = head->next;
         ListNode* newHead=NULL;
         ListNode* tail=NULL;
-        
-        long long sum=0,z=0;
+        long long sum=0;
         while(temp!=NULL){
-            if(temp->val==0){
-                z++;
-            }
             sum+=temp->val;
-            if(z==2){
+            if(temp->val==0){
                 ListNode* r = new ListNode(sum);
                 if(newHead==NULL){
                     newHead = tail=r;
@@ -30,7 +26,6 @@ public:
                     tail=r;
                 }
                 sum=0;
-                z--;
             }
             temp=temp->next;
         }
