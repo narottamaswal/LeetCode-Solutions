@@ -10,16 +10,12 @@ public:
         while(j<nums.size()){
             int num = nums[j];
             if(num%2==0){
-                ans[i]=num;
-                i++;
+                ans[i++]=num;
             }else{
-                ans[totalEven]=num;
-                totalEven++;
+                ans[totalEven++]=num;
             }
             j++;
         }
         return ans;
     }
 };
-// 0 3 2 5 6 12 1 1
-// 1 1 3 5 0 2 6 12
