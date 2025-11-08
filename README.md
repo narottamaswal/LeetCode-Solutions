@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,4 +164,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
