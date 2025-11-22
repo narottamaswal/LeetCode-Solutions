@@ -24,18 +24,20 @@ class Solution {
         while(!q.isEmpty()){
             List<Integer> ans = new ArrayList<>();
             int qd = q.size();
+            boolean zigzagSize = zigzagOrder.size()%2==1;
             for(int i=0;i<qd;i++){
                 TreeNode temp = q.poll();
-                ans.add(temp.val);
+                if(zigzagSize){
+                    ans.add(0,temp.val);
+                }else{
+                    ans.add(temp.val);
+                }
                 if(temp.left!=null){
                     q.add(temp.left);
                 }
                 if(temp.right!=null){
                     q.add(temp.right);
                 }
-            }
-            if(zigzagOrder.size()%2==1){
-                Collections.reverse(ans);
             }
             zigzagOrder.add(ans);
         }
