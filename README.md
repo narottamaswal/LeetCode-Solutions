@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
