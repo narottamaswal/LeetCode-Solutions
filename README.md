@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0816-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
