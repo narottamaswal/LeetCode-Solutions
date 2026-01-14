@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0816-design-hashset) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
@@ -304,8 +308,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
