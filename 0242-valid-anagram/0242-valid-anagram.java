@@ -6,10 +6,10 @@ class Solution {
         int[] freq = new int[26];
         for(int i=0;i<s.length();i++){
             freq[s.charAt(i)-'a']++;
-            freq[t.charAt(i)-'a']--;
         }
-        for(int i=0;i<26;i++){
-            if(freq[i]!=0){
+        for(int i=0;i<t.length();i++){
+            freq[t.charAt(i)-'a']--;
+            if(freq[t.charAt(i)-'a']<0){
                 return false;
             }
         }
