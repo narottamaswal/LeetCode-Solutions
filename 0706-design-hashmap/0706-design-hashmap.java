@@ -1,25 +1,27 @@
 class MyHashMap {
     private int[] storage;
-    private boolean[] oc;
+    // private boolean[] oc;
     public MyHashMap() {
         storage = new int[1_000_001];
-        oc = new boolean[1_000_001];
+        Arrays.fill(storage, -1);
+
+        // oc = new boolean[1_000_001];
     }
     
     public void put(int key, int value) {
         storage[key]=value;
-        oc[key]=true;
+        // oc[key]=true;
     }
     
     public int get(int key) {
-        if(oc[key]==false){
-            return -1;
-        }
+        // if(oc[key]==false){
+        //     return -1;
+        // }
         return storage[key];
     }
     
     public void remove(int key) {
-        oc[key]=false;
+        // oc[key]=false;
         storage[key]=-1;
     }
 }
