@@ -13,7 +13,7 @@ class Solution {
     }
     public int[] topKFrequent(int[] nums, int k) {
         int[] ans = new int[k];
-        Map<Integer,Integer> mp = new TreeMap<>();
+        Map<Integer,Integer> mp = new HashMap<>();
         for(int a:nums){
             mp.put(a,mp.getOrDefault(a,0)+1);
         }
