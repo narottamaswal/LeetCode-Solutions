@@ -1,25 +1,40 @@
-import java.util.*;
 class Solution {
-    public String getString(String e){
-        Deque<Character> q = new ArrayDeque<>();
-        for(char a:e.toCharArray()){
-            if(a=='#'){
-                if(!q.isEmpty()){
-                    q.pop();
-                }
-            }else{
-                q.push(a);
-            }
-        }
-        StringBuilder sb = new StringBuilder();
-        while(!q.isEmpty()){
-            sb.append(q.poll());
-        }
-        String d= sb.reverse().toString();        
-        System.out.println(d);
-        return d;
-    }
     public boolean backspaceCompare(String s, String t) {
-        return getString(s).equalsIgnoreCase(getString(t)); 
+        int ps = s.length() - 1;
+        int pt = t.length() - 1;
+
+        while (ps >= 0 || pt >= 0) {
+            ps = get_next_valid_char_index(s, ps);
+            pt = get_next_valid_char_index(t, pt);
+
+            if (ps < 0 && pt < 0) {
+                return true;
+            }
+            if (ps < 0 || pt < 0) {
+                return false;
+            } else if (s.charAt(ps) != t.charAt(pt)) {
+                return false;
+            }
+
+            ps--;
+            pt--;
+        }
+
+        return true;        
     }
+
+    private int get_next_valid_char_index(String str, int end) {
+        int backspace_count = 0;
+        while (end >= 0) {
+            if (str.charAt(end) == '#') {
+                backspace_count++;
+            } else if (backspace_count > 0) {
+                backspace_count--;
+            } else {
+                break;
+            }
+            end--;
+        }
+        return end;
+    }    
 }
