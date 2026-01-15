@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
