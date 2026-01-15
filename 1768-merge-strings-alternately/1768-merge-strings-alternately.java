@@ -5,11 +5,10 @@ class Solution {
         while(i<n && j<m){
             sb.append(word1.charAt(i++)).append(word2.charAt(j++));
         }
-        while(i<n){
-            sb.append(word1.charAt(i++));
-        }
-        while(j<m){
-            sb.append(word2.charAt(j++));
+        if(n>m){
+            sb.append(word1.substring(i));
+        }else{
+            sb.append(word2.substring(j));
         }
         return sb.toString();
     }
