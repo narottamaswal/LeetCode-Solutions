@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0705-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
