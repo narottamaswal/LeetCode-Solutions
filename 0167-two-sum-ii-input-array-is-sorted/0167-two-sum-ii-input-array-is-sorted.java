@@ -1,8 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int n = nums.length;
-        int[] ans = new int[2];
-        int i=0,j=n-1;
+        int n = nums.length,i=0,j=n-1;
         while(i<j){
             if(nums[i]+nums[j]==target){
                 return new int[]{i+1,j+1};
@@ -12,6 +10,6 @@ class Solution {
                 j--;
             }
         }
-        return ans;
+        return new int[]{};
     }
 }
