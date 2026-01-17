@@ -1,11 +1,12 @@
 class Solution {
     public long dividePlayers(int[] skill) {
-        long n = skill.length, teams=n/2;
-        if(n%2!=0) return -1;
-        if(n==2){
+        int n = skill.length, teams=n/2;
+        long sum=0;
+        if(n%2!=0){
+            return -1;
+        }else if(n==2){
             return skill[0]*skill[1];
         }
-        long sum=0;
         Map<Integer,Integer> mp = new HashMap<>();
         for(int a:skill){
             mp.put(a,mp.getOrDefault(a,0)+1);
@@ -15,8 +16,7 @@ class Solution {
         int eachTeamSkill = Math.toIntExact(sum/teams) ;
         sum=0;
         for(int i=0;i<n;i++){
-            int c = skill[i];
-            int rem = Math.abs(eachTeamSkill-c);
+            int c = skill[i], rem = Math.abs(eachTeamSkill-c);
             if(mp.containsKey(rem)){
                 mp.put(c,mp.getOrDefault(c,0)-1);
                 mp.put(rem,mp.getOrDefault(rem,0)-1);
@@ -29,7 +29,6 @@ class Solution {
                 }
             }
         }
-        System.out.println(mp.entrySet());
         return mp.size()>0 ? -1 : sum;
     }
 }
