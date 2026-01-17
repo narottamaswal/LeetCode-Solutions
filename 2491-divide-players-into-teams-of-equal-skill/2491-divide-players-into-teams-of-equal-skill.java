@@ -2,34 +2,30 @@ class Solution {
     public long dividePlayers(int[] skill) {
         int n = skill.length, teams=n/2;
         long sum=0;
-        if(n%2!=0){
-            return -1;
-        }else if(n==2){
-            return skill[0]*skill[1];
-        }
-        Map<Integer,Integer> mp = new HashMap<>();
+        if(n==2) return skill[0]*skill[1];
+        int[] skillFreq = new int[1001];
         for(int a:skill){
-            mp.put(a,mp.getOrDefault(a,0)+1);
+            skillFreq[a]++;
             sum+=a;
         }
         if(sum%teams!=0) return -1; 
-        int eachTeamSkill = Math.toIntExact(sum/teams) ;
+        int eachTeamSkill = (int)(sum/teams) ;
         sum=0;
-        for(int i=0;i<n;i++){
-            int c = skill[i], rem = Math.abs(eachTeamSkill-c);
-            if(mp.containsKey(rem)){
-                mp.put(c,mp.getOrDefault(c,0)-1);
-                mp.put(rem,mp.getOrDefault(rem,0)-1);
+        for(int c:skill){
+            if(skillFreq[c]==0){
+                continue;
+            }
+            int rem = Math.abs(eachTeamSkill-c);
+            if (rem < 0 || rem > 1000 || skillFreq[rem] == 0) {
+                return -1;
+            }
+            if(skillFreq[rem]>0){
+                skillFreq[c]--;
+                skillFreq[rem]--;
                 sum = sum+(c*rem);
-                if(mp.getOrDefault(c,0)<=0){
-                    mp.remove(c);
-                }
-                if(mp.getOrDefault(rem,0)<=0){
-                    mp.remove(rem);                    
-                }
             }
         }
-        return mp.size()>0 ? -1 : sum;
+        return sum;
     }
 }
 
