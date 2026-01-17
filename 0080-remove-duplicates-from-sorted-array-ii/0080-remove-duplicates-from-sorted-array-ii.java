@@ -1,31 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        Map<Integer,Integer> mp1 = new TreeMap<>();
-        int n = nums.length, ans = 0;
-        for(int a:nums){
-            mp1.put(a,mp1.getOrDefault(a,0)+1);
-        }
-        int j=0;
-        // for(int a:nums){
-        //     if(a==1){
-        //         nums[j++]=mp.getKey();
-        //         ans++;
-        //     }else if(a>=2){
-        //         nums[j++]=mp.getKey();
-        //         nums[j++]=mp.getKey();
-        //         ans+=2;
-        //     }
-        // }
-        for(Map.Entry<Integer,Integer> mp:mp1.entrySet()){
-            if(mp.getValue()==1){
-                nums[j++]=mp.getKey();
-                ans++;
-            }else if(mp.getValue()>=2){
-                nums[j++]=mp.getKey();
-                nums[j++]=mp.getKey();
-                ans+=2;
+        int n = nums.length, j=1;
+        if(n<3) return n;
+        for(int i=1; i<n-1; i++){
+            if(!(nums[i] == nums[i-1] && nums[i]==nums[i+1])){                
+                nums[j] = nums[i];
+                j++;
             }
         }
-        return ans;
+        nums[j] = nums[n-1];
+        return j+1;
     }
 }
