@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0844-backspace-string-compare](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
