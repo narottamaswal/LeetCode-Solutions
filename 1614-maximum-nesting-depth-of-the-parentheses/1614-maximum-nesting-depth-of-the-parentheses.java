@@ -1,15 +1,15 @@
 class Solution {
     public int maxDepth(String s) {
-        int n = s.length(),i=0,o=0, ans =0;
-        while(i<n){
-            char cc = s.charAt(i++);
-            if(cc=='('){
-                o++;
-            }else if(cc==')'){
-                o--;
+        int maxDepth = 0, strLength = s.length(), start =0, bracket=0;
+        while(start<strLength){
+            char currentChar = s.charAt(start++);
+            if(currentChar=='('){
+                bracket++;
+            }else if(currentChar==')'){
+                bracket--;
             }
-            ans = Math.max(o,ans);
+            maxDepth = Math.max(maxDepth,bracket);
         }
-        return ans;
+        return maxDepth;
     }
 }
