@@ -1,7 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
-        int length = s.length();
-        int start = 0;
+        int length = s.length(),start = 0;
         Stack<Character> st = new Stack<>();
         for(char ch:s.toCharArray()){
             if(ch=='(' || ch=='{' || ch=='['){
