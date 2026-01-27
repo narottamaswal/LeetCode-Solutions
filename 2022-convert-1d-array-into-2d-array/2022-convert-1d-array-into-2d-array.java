@@ -5,13 +5,8 @@ class Solution {
 
         int[][] result = new int[m][n];
 
-        int row = 0, c = 0;
-        for (int i = 0; i < original.length && row < m;) {
-            for (int j = 0; j < n && i < original.length; j++) {
-                result[row][j] = original[i];
-                i++;
-            }
-            row++;
+        for(int i=0;i<m*n;i++){
+            result[i/n][i%n] = original[i];
         }
 
         return result;
