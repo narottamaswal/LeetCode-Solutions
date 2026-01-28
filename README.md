@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2105-watering-plants-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
