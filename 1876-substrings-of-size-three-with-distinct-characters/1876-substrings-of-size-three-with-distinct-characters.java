@@ -1,7 +1,6 @@
 class Solution {
     public int countGoodSubstrings(String s) {
-        int start = 0, end = 0, n =s.length();
-        int ans = 0;
+        int start = 0, end = 0, n =s.length(),ans = 0;
         Map<Character,Integer> mp = new HashMap<>();
         while(end<n){
             mp.put(s.charAt(end),mp.getOrDefault(s.charAt(end),0)+1);
