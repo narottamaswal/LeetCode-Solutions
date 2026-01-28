@@ -1,22 +1,14 @@
 class Solution {
     public int countGoodSubstrings(String s) {
-        int start = 0, end = 0, n =s.length(),ans = 0;
-        Map<Character,Integer> mp = new HashMap<>();
-        while(end<n){
-            mp.put(s.charAt(end),mp.getOrDefault(s.charAt(end),0)+1);
-            if(end-start+1<3){
-                end++;
-                continue;
-            }else if(end-start+1==3 && mp.size()==3){
-                ans++;
+        int c=0;
+        for(int i=0;i<s.length()-2;i++){
+            if(ok(s.charAt(i),s.charAt(i+1),s.charAt(i+2))){
+                c++;
             }
-            mp.put(s.charAt(start),mp.getOrDefault(s.charAt(start),0)-1);
-            if(mp.getOrDefault(s.charAt(start),0)==0){
-                mp.remove(s.charAt(start));
-            }
-            start++;
-            end++;
         }
-        return ans;
+        return c;
+    }
+    public boolean ok(char a, char b , char c){
+        return (a!=b && b!=c && c!=a);
     }
 }
