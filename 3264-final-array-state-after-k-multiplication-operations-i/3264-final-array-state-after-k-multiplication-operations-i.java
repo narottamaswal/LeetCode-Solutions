@@ -20,7 +20,6 @@ class Solution {
         while(!pq.isEmpty()){
             int[] ele = pq.poll();
             ans[ele[1]] = ele[0];
-            System.out.println(ele[0]+" "+ele[1]);
         }
         return ans;
     }
