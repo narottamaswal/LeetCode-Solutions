@@ -9,7 +9,7 @@ class Solution {
             if(mp.getOrDefault(nums[end],0)>1){
                 return true;
             }
-            if(end>=k){
+            if(end-start>=k){
                 mp.put(nums[start],mp.getOrDefault(nums[start],0)-1);
                 start++;
             }
