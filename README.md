@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Heap (Priority Queue)
 |  |
