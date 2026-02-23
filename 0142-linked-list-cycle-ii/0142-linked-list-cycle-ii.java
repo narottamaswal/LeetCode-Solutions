@@ -18,9 +18,19 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
             if(slow==fast){
-                return fast;
+                break;
             }
         }
-        return null;
+        // No cycle
+        if (fast == null || fast.next == null) return null;
+
+        // if cyber is detected we move to the position where cycle will start
+        fast = head;
+        while (fast != slow) {
+            fast = fast.next;
+            slow = slow.next;
+        }
+
+        return slow;
     }
 }
