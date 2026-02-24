@@ -10,20 +10,21 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        List<Integer> pq = new ArrayList<>();
         ListNode temp = head;
         while(temp!=null){
             pq.add(temp.val);
             temp = temp.next;
         }
+        Collections.sort(pq);
         ListNode newHead=null;
         temp=null;
-        while(!pq.isEmpty()){
+        for(Integer a:pq){
             if(newHead==null){
-                newHead = new ListNode(pq.poll());
+                newHead = new ListNode(a);
                 temp = newHead;
             }else{
-                temp.next = new ListNode(pq.poll());
+                temp.next = new ListNode(a);
                 temp = temp.next;
             }
         }
