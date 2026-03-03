@@ -1,31 +1,20 @@
 class Solution {
-     public class Pair implements Comparable<Pair>{
-        int num;
-        int count;
-        public Pair(int count,int num){
-            this.num=num;
-            this.count=count;
-        }
-        public int compareTo(Pair o){
-            return this.count - o.count;
-        }
-         
-    }
     public int[] topKFrequent(int[] nums, int k) {
-        int[] ans = new int[k];
         Map<Integer,Integer> mp = new HashMap<>();
         for(int a:nums){
             mp.put(a,mp.getOrDefault(a,0)+1);
         }
-        PriorityQueue<Pair> pq = new PriorityQueue<>();
-        for(Map.Entry<Integer,Integer> e:mp.entrySet()){
-            pq.offer(new Pair(e.getValue(),e.getKey()));
-            if(pq.size()>k){
+        Queue<int[]> pq = new PriorityQueue<>((a,b)->a[0]-b[0]);
+        for(Map.Entry<Integer,Integer> entry: mp.entrySet()){
+            pq.offer(new int[]{entry.getValue(),entry.getKey()});
+            while(pq.size()>k){
                 pq.poll();
             }
         }
-        while(!pq.isEmpty() && k>0){
-            ans[--k]=pq.poll().num;
+        int[] ans = new int[pq.size()];
+        int i=0;
+        while(!pq.isEmpty()){
+            ans[i++] = pq.poll()[1];
         }
         return ans;
     }
