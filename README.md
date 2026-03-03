@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1472-design-browser-history](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0816-design-hashset) |
+| [1331-rank-transform-of-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Breadth-First Search
 |  |
