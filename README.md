@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0705-design-hashset) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0846-hand-of-straights](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -476,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
