@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1094-car-pooling) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0846-hand-of-straights](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0997-find-the-town-judge](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -528,4 +530,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1472-design-browser-history) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
