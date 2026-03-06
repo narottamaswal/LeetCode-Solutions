@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
