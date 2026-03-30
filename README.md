@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
