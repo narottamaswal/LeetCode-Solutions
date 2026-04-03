@@ -14,21 +14,29 @@
  * }
  */
 class Solution {
-    private void path(TreeNode node, String path,List<String> ans){
-        if(node==null){
-            return;
-        }
-        path+=node.val;
-        if(node.left==null && node.right==null){
-            ans.add(path.toString());
-            return;
-        }
-        path(node.left,path+"->",ans);
-        path(node.right,path+"->",ans);
-    }
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> ans = new ArrayList<>();
-        path(root,"",ans);
-        return ans;
+        List<String> result = new ArrayList<>();
+        //try to apply backtracking 
+        StringBuilder str = new StringBuilder();
+        findAllPaths(root,result,str);
+        return result;
+    }
+    
+    public void findAllPaths(TreeNode root,List<String> result,StringBuilder str ){
+        //inorder traversal of tree, until encounter null
+        if(root ==null){
+            return;
+        }
+        int len = str.length();
+        str.append(root.val);
+        if(root.left == null && root.right ==null){
+            result.add(str.toString());
+        }else{
+            str.append("->");
+            findAllPaths(root.left,result,str);
+            findAllPaths(root.right,result,str);
+        }
+        str.setLength(len);
+        
     }
 }
