@@ -16,8 +16,8 @@
 record Pair(TreeNode node,TreeNode parent){}
 class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
-        int depth=0,xdepth=0,ydepth=0;
-        TreeNode xParent=new TreeNode(0),yParent = new TreeNode(0);
+        if(root==null) return false;
+        int depth=0,xdepth=0,ydepth=0,xParent=0,yParent=0;
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(root,root));
         while(!q.isEmpty()){
@@ -26,10 +26,10 @@ class Solution {
                 Pair p = q.poll();
                 TreeNode ele = p.node(), parent = p.parent(); 
                 if(ele.val==x){
-                    xParent = ele;
+                    xParent = parent.val;
                     xdepth = depth;
                 }else if(ele.val==y){
-                    yParent=ele;
+                    yParent=parent.val;
                     ydepth = depth;
                 }
                 if(ele.left!=null){
@@ -41,6 +41,9 @@ class Solution {
             }
             depth++;
         }
-        return xdepth>1 && ydepth>1 && xdepth==ydepth && xParent.val!=yParent.val;
+         if(xdepth==ydepth && xdepth>1 && ydepth>1 && xParent!=yParent){
+            return true;
+        }
+        return false;
     }
 }
