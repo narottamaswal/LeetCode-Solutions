@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
