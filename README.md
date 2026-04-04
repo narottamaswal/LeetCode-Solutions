@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Design
 |  |
