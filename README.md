@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
