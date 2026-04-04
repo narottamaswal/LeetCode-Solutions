@@ -1,10 +1,7 @@
 class Solution {
     private int minutes(String current){
-        int ans=0;
         String[] parts = current.split(":");
-        ans = ans + 60 * Integer.parseInt(parts[0]);
-        ans = ans + Integer.parseInt(parts[1]);
-        return ans;
+        return 60 * Integer.parseInt(parts[0]) + Integer.parseInt(parts[1]);
     }
     public int convertTime(String current, String correct) {
         int minutes1 = minutes(current); // 150
