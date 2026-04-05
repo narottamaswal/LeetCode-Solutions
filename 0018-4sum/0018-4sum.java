@@ -1,55 +1,33 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
-        if (n < 4) return ans;
+         int n = nums.length; // size of the array
+        Set<List<Integer>> st = new HashSet<>();
 
-        Arrays.sort(nums);
-
-        for (int i = 0; i < n - 3; i++) {
-            // 1. Skip duplicates for i
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-
-            // 2. Optimization: Smallest possible sum from here
-            // If the 4 smallest numbers are > target, no need to check further
-            long minSumI = (long) nums[i] + nums[i+1] + nums[i+2] + nums[i+3];
-            if (minSumI > target) break;
-
-            // 3. Optimization: Largest possible sum from here
-            // If nums[i] + 3 largest numbers < target, this 'i' is too small
-            long maxSumI = (long) nums[i] + nums[n-3] + nums[n-2] + nums[n-1];
-            if (maxSumI < target) continue;
-
-            for (int j = i + 1; j < n - 2; j++) {
-                // 4. Skip duplicates for j
-                if (j > i + 1 && nums[j] == nums[j - 1]) continue;
-
-                // 5. Optimization: Same logic for the second fixed pointer 'j'
-                long minSumJ = (long) nums[i] + nums[j] + nums[j+1] + nums[j+2];
-                if (minSumJ > target) break;
-                
-                long maxSumJ = (long) nums[i] + nums[j] + nums[n-2] + nums[n-1];
-                if (maxSumJ < target) continue;
-
-                int start = j + 1, end = n - 1;
-                while (start < end) {
-                    // Use long to prevent overflow during sum calculation
-                    long sum = (long) nums[i] + nums[j] + nums[start] + nums[end];
-
-                    if (sum == target) {
-                        ans.add(Arrays.asList(nums[i], nums[j], nums[start], nums[end]));
-                        start++;
-                        end--;
-                        while (start < end && nums[start] == nums[start - 1]) start++;
-                        while (start < end && nums[end] == nums[end + 1]) end--;
-                    } else if (sum < target) {
-                        start++;
-                    } else {
-                        end--;
+        // checking all possible quadruplets:
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                Set<Long> hashset = new HashSet<>();
+                for (int k = j + 1; k < n; k++) {
+                    // taking bigger data type
+                    // to avoid integer overflow:
+                    long sum = nums[i] + nums[j];
+                    sum += nums[k];
+                    long fourth = target - sum;
+                    if (hashset.contains(fourth)) {
+                        List<Integer> temp = new ArrayList<>();
+                        temp.add(nums[i]);
+                        temp.add(nums[j]);
+                        temp.add(nums[k]);
+                        temp.add((int) fourth);
+                        temp.sort(Integer::compareTo);
+                        st.add(temp);
                     }
+                    // put the kth element into the hashset:
+                    hashset.add((long) nums[k]);
                 }
             }
         }
+        List<List<Integer>> ans = new ArrayList<>(st);
         return ans;
     }
 }
