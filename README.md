@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
