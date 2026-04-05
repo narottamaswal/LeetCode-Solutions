@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
