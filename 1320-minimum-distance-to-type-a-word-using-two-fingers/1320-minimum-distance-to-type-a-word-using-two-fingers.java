@@ -2,7 +2,7 @@ record Coord(int x, int y) {}
 
 class Solution {
     Map<Character, Coord> mp = new HashMap<>();
-    int[][][] memo; // [index][left finger: 0=unplaced, 1-26=A-Z][right finger]
+    int[][][] memo; // [index][left finger: 0=unplaced, 1-26=A-Z][right finger : 0=unplaced, 1-26=A-Z]
 
     private int cost(Coord a, Coord b) {
         return Math.abs(a.x() - b.x()) + Math.abs(a.y() - b.y());
