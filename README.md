@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1813-sentence-similarity-iii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2105-watering-plants-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
