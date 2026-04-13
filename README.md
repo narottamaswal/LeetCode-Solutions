@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Counting
 |  |
 | ------- |
@@ -591,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -605,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1094-car-pooling](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1094-car-pooling) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -617,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -680,4 +686,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 <!---LeetCode Topics End-->
