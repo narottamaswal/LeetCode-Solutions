@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0705-design-hashset) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 ## Recursion
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Queue
 |  |
@@ -697,4 +701,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
