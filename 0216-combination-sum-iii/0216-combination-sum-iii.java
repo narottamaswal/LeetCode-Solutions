@@ -8,9 +8,11 @@ class Solution {
             }
             return;
         }
-        for(int i=curr;i<10;i++){
+        for(int i=curr;i<=9;i++){
             currList.add(i);
-            dfs(currList,k,target,i+1,sum+i);
+            if(sum+i<=target){
+                dfs(currList,k,target,i+1,sum+i);
+            }
             currList.remove(currList.size()-1);
         }
     }
