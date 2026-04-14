@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0784-letter-case-permutation](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0784-letter-case-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0784-letter-case-permutation) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
