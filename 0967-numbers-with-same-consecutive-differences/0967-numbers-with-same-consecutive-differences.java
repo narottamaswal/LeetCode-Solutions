@@ -20,12 +20,7 @@ class Solution {
         for(char i='0';i<='9';i++){
             dfs(n,k,new StringBuilder(),i);
         }
-        System.out.println(ele);
-        int[] ans = ele.stream().mapToInt(i -> i).toArray();
-        // retun ans;
-        // int[] ans = ele.stream().toArray(Integer[]::new);;
-        return ans;
-        // return new int[]{};
+        return ele.stream().mapToInt(i -> i).toArray();
     }
 }
 // n= 5
