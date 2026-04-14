@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1947-maximum-compatibility-score-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1947-maximum-compatibility-score-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2105-watering-plants-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0784-letter-case-permutation) |
+| [1947-maximum-compatibility-score-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1947-maximum-compatibility-score-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1947-maximum-compatibility-score-sum) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
@@ -617,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1947-maximum-compatibility-score-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Queue
 |  |
 | ------- |
@@ -721,4 +725,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
+| [1947-maximum-compatibility-score-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
