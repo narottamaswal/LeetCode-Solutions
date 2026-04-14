@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2463-minimum-total-distance-traveled](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2463-minimum-total-distance-traveled](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Breadth-First Search
 |  |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1947-maximum-compatibility-score-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1947-maximum-compatibility-score-sum) |
+| [2463-minimum-total-distance-traveled](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 ## Queue
 |  |
 | ------- |
