@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0494-target-sum) |
