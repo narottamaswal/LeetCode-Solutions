@@ -1,8 +1,5 @@
 class Solution {
-    
     List<String> ans = new ArrayList<>();
-    StringBuilder sb = new StringBuilder();
-
     private void dfs(String s,int i,String ele){
         if(ele.length()==s.length() || i==s.length()){
             ans.add(ele);
