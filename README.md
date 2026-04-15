@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
