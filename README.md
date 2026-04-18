@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
