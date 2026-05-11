@@ -1,12 +1,16 @@
 class Solution {
     public int[] separateDigits(int[] nums) {
-        StringBuilder sb = new StringBuilder();
-        for(int a:nums) sb.append(a);
-
-        int[] ans = new int[sb.length()];
-        for(int i=0;i<sb.length();i++){
-            ans[i]=sb.charAt(i)-'0';
+        List<Integer> ll = new ArrayList<>();
+        for(int i=nums.length-1;i>=0;i--){
+            int a=nums[i];
+            while(a>0){
+                ll.add(a%10);
+                a=a/10;
+            }
         }
-        return ans;
+        Collections.reverse(ll);
+        return ll.stream()
+                           .mapToInt(Integer::intValue)
+                           .toArray();
     }
 }
