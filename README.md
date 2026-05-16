@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2105-watering-plants-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -735,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0851-loud-and-rich](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
 | ------- |
@@ -746,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Interactive
 |  |
 | ------- |
