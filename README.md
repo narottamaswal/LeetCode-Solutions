@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -739,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -751,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Interactive
 |  |
 | ------- |
