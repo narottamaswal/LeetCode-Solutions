@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -738,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Interactive
 |  |
 | ------- |
