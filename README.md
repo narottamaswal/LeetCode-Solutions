@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sliding Window
@@ -650,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
@@ -734,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -751,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0851-loud-and-rich) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -763,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Monotonic Queue
 |  |
