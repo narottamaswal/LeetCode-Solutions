@@ -29,13 +29,12 @@ class Solution {
             parent[i]=i;
             rank[i]=0;
         }
-        int[] ans=new int[]{0,0};
+        int[] ans=new int[2];
         for(int[] edge: edges){
             int parentU = find(edge[0]);
             int parentV = find(edge[1]);
             if(parentU==parentV){
-                ans[0]=edge[0];
-                ans[1]=edge[1];
+                ans=edge;
             }else{
                 union(parentU,parentV);
             }
