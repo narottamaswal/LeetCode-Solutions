@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2512-reward-top-k-students](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2512-reward-top-k-students](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2512-reward-top-k-students](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2540-minimum-common-value](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -565,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2463-minimum-total-distance-traveled](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2512-reward-top-k-students](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2512-reward-top-k-students) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -698,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2512-reward-top-k-students](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/narottamaswal/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
